@@ -40,17 +40,4 @@ Use Cases:
 Student Registration: A new student visits the website, registers by filling out the registration form, and receives a confirmation email.
 Login and Profile Management: A registered student logs in, views their profile, and updates their personal information.
 Forgot and Reset Password: A student who forgets their password initiates a reset request, receives a reset link via email, and sets a new password.
-How to Set Up and Run the App:
-Local Development:
 
-Clone the repository to your local machine.
-Set up the MySQL database and update the connection settings in the code.
-Install dependencies using npm install.
-Set up environment variables for email service and session secret.
-Run the application locally using npm start.
-Deployment:
-
-Choose a suitable cloud hosting provider (e.g., Heroku, Firebase).
-Configure environment variables on the hosting platform for database connection and email service.
-Deploy the application by following the hosting provider's deployment guidelines.
-This Student Registration System aims to streamline the registration process, enhance security, and provide an efficient solution for managing student data in educational institutions.
